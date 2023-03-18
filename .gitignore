@@ -1,0 +1,5 @@
+DBT_with_snowflake
+logs
+snowflake-data-import - Snowflake_files
+snowflake-user-creation - Snowflake_files
+venv
